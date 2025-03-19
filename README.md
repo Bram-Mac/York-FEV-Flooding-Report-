@@ -9,4 +9,4 @@ All the code given has specific titles so should be reasonably easy to find the 
 To use the code, you will need to download the datasets as csv files. You will notice at the top of most of the python files there is a line which gives access to the data, for example: <br/>
 **Data = pd.read_csv(r'C:\Users\macha\Documents\Uni\Year 3\Project in Maths\Ouse Data\2015 Stage and Flow Data.csv')**. <br/> The reader will need to edit this line and change it so that it finds the file (that you have downloaded) in your computer. <br/> 
 <br/>
-The FEV for 2015 (Original, Rising Limb and Falling Limb) all have a threshold height $h_T$
+The FEV for 2015 (Original, Rising Limb and Falling Limb) all have a threshold height $h_T$ = 4.57, this was a value found online and can be easily changed to see how FEV changes as $h_T$ changes. Also, the coefficients a,b and c are given at the top for the Falling Limb and Original Rating curve FEV code, these coefficients were found in other files: (Calculating the Rating Curve for Rising and Falling Limbs.py and Original Rating Curve.py. Similar for the coefficients of the 8 degree polynomial rising limb fit. 
