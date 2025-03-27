@@ -13,6 +13,7 @@ The code for the FEV of 2015 (Original, Rising Limb and Falling Limb) all have a
 <br/>
 The main reference used for the flood excess volume analysis used in this project was provided by Bokhove et al. (2020). If there is a wish to gain more of an understanding, then it would be highly recommended to read this article, can be found here: https://doi.org/10.3390/w12030652
 
-
+# Figures
+This folder contains all the graphs/plots found in the report.
 
 
